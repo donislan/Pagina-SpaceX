@@ -97,7 +97,7 @@
   }
 }
 .container00.container01 {
-  background-image: url(../IMAGENS/home/01.jpg);
+  background-image: url(../IMAGENS/home/01.jpg) !important;
 }
 .container00.container02 {
   background-image: url(../IMAGENS/home/03.jpg);
